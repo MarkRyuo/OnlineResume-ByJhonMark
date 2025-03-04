@@ -8,6 +8,7 @@ function HomepageNavbar() {
         <li>Home</li>
         <li>About</li>
       </ul>
+      <button>Get Started</button>
     </div>
   )
 }
