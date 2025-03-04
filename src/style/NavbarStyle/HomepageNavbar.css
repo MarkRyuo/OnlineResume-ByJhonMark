@@ -27,6 +27,8 @@ button::after {
   content: " ";
   position: absolute;
   border: 1px solid;
+  width: 100px;
+  height: 100px;
 }
 
 
