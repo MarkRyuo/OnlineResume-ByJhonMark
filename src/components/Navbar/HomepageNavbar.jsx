@@ -5,6 +5,7 @@ function HomepageNavbar() {
     <div>
       <ul>
         <li>Home</li>
+        <li></li>
       </ul>
     </div>
   )
