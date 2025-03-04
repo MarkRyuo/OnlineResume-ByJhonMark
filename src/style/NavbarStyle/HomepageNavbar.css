@@ -27,13 +27,13 @@ button span {
   position: absolute;
   top: -20px;
   right: -10px;
-  font-size: 1.7rem;
+  font-size: 2rem;
   display: none;
 }
 
 button:hover span {
   display: block;
-  animation: rotate 0.5s 1;
+  animation: rotate 0.5s infinite;
 }
 
 
@@ -42,7 +42,7 @@ button:hover span {
     transform: rotateZ(0);
   }
   to {
-    transform: rotateZ(120deg);
+    transform: rotateZ(60deg);
   }
 }
 
