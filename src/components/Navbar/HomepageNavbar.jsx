@@ -8,4 +8,4 @@ function HomepageNavbar() {
   )
 }
 
-export default HomepageNavbar
+export default HomepageNavbar ;
