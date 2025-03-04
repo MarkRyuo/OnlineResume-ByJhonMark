@@ -18,7 +18,7 @@ button {
   font-weight: 500;
 
   transition: opacity 0.5 ease-in-out;
-  cur
+  cursor: pointer;
 }
 
 
@@ -27,5 +27,5 @@ button:hover {
 }
 
 button:focus {
-
+  opacity: ;
 }
