@@ -5,7 +5,7 @@
 
   display: flex;
   justify-content: space-between;
-  ali
+  align-items: center;
 }
 
 
@@ -15,7 +15,6 @@ button {
   padding: 10px 5px;
   border-radius: 10px;
   font-size: 1.3rem;
-
 
 }
 
