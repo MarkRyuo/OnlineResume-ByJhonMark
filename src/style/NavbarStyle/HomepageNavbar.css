@@ -7,14 +7,6 @@
   justify-content: space-between;
 }
 
-ul {
-  width: 300px;
-
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  list-style: none;
-}
 
 button {
   font-size: 1.5rem;
