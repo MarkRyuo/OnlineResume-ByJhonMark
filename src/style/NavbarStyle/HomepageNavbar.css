@@ -16,4 +16,7 @@ ul {
   list-style: none;
 }
 
+li button {
+  font-size: 1.5rem;
+}
 
