@@ -33,6 +33,7 @@ button:active {
 
 h1 {
   font-weight: 500;
+  color: var(--clr-black-400);
 }
 
 
