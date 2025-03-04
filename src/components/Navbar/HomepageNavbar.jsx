@@ -8,8 +8,8 @@ function HomepageNavbar() {
         <ul>
           <li>Home</li>
           <li>About</li>
+          <button>Get Started</button>
         </ul>
-        <button>Get Started</button>
     </div>
   )
 }
