@@ -28,7 +28,7 @@ button span {
   top: -20px;
   right: -10px;
   font-size: 1.7rem;
-
+  display: none;
 }
 
 
