@@ -31,6 +31,19 @@ button span {
   display: none;
 }
 
+button:hover span {
+  display: block;
+}
+
+
+@keyframes rotate {
+  from {
+    transform: rotateZ(0);
+  }
+  to {
+    transform: rotateZ('angle');
+  }
+}
 
 button:hover {
   opacity: 0.9;
