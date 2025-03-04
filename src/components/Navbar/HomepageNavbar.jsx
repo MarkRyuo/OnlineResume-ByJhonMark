@@ -3,7 +3,7 @@ import '../../style/NavbarStyle/HomepageNavbar.css'
 
 function HomepageNavbar() {
   return (
-    <div className='navbar-container'>
+    <div className='navbar-container wrapper'>
       <h1>Animoda Studio</h1>
       <button>
         <span>👌</span>
