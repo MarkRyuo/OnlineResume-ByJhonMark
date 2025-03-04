@@ -3,7 +3,7 @@ import HomepageNavbar from '../components/Navbar/HomepageNavbar';
 
 function Homepage() {
   return (
-    <div style={{position: 'relative', width: '100vw', border: '1px solid red'}}>
+    <div style={{position: 'relative'}}>
       <HomepageNavbar />
     </div>
   )
