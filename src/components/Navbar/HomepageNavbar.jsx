@@ -5,7 +5,7 @@ function HomepageNavbar() {
     <div>
       <h1>Animoda Studio</h1>
         <ul>
-          q<li>Home</li>
+          <li>Home</li>
         <li>About</li>
       </ul>
       <button>Get Started</button>
