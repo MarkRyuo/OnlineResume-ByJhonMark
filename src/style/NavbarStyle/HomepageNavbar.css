@@ -20,11 +20,20 @@ button {
 
   transition: opacity 0.15s ;
   cursor: pointer;
+  position: relative;
+}
+
+button::after {
+  content: " ";
+  position: absolute;
+  border: 1px solid;
 }
 
 
 button:hover {
   opacity: 0.9;
+
+  
 }
 
 button:active {
