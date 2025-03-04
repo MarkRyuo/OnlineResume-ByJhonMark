@@ -33,7 +33,7 @@ button span {
 
 button:hover span {
   display: block;
-  animation: rotate 0.5s in;
+  animation: rotate 0.5s 1;
 }
 
 
