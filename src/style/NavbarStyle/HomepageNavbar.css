@@ -23,7 +23,11 @@ button {
   position: relative;
 }
 
-
+button span {
+  position: absolute;
+  top: 0;
+  
+}
 
 
 button:hover {

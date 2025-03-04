@@ -6,7 +6,7 @@ function HomepageNavbar() {
     <div className='navbar-container wrapper'>
       <h1>Animoda Studio</h1>
       <button>
-        <span></span>
+        <span>👌</span>
         Get Started
       </button>
     </div>
