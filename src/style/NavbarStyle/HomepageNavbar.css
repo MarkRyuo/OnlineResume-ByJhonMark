@@ -16,7 +16,7 @@ button {
   border-radius: 10px;
   font-size: 1.3rem;
 
-  transition: ;
+  transition: opacity 0.5;
 }
 
 
