@@ -32,4 +32,8 @@ button:active {
   opacity: 0.5;
 }
 
+h1 {
+  font-weight: 500;
+}
+
 
