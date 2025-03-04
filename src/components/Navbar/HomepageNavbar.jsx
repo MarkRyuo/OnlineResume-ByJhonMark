@@ -2,7 +2,7 @@ import React from 'react'
 
 function HomepageNavbar() {
   return (
-    <div>
+    <div className=''>
       <h1>Animoda Studio</h1>
         <ul>
           <li>Home</li>
