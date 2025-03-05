@@ -3,7 +3,7 @@ import HomepageNavbar from '../components/Navbar/HomepageNavbar';
 
 function Homepage() {
   return (
-    <div>
+    <div className='homapage-container'>
       <HomepageNavbar />
     </div>
   )
