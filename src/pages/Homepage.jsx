@@ -4,7 +4,7 @@ import '../style/Homepage.css'
 
 function Homepage() {
   return (
-    <div className='homapage-container'>
+    <div className='homepage-container'>
       <HomepageNavbar />
     </div>
   )
