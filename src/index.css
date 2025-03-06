@@ -45,4 +45,8 @@
 }
 
 
-/*!  */
+/*! Global Styles */
+
+html {
+  scroll-behavior: ;
+}
