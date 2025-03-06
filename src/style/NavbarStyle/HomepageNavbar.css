@@ -84,6 +84,13 @@ h1::after {
   /* width: 100%; */
   position: absolute;
   top: 0;
+
+}
+
+h1:hover::after {
+    animation: slideIn 1s ;
+
+    animation-fill-mode: forwards;
 }
 
 
