@@ -18,7 +18,7 @@
 
   --clr-primary: ;
   --clr-secondary: ;
-  --clr-text: rgb(32, 31, 31);
+  --clr-text: rgb(233, 28, 28);
   --clr-background: ;
   --clr-accent: ;
 
@@ -54,4 +54,5 @@ html {
 
 h1 {
   font: var(--h1);
+  color: var(--clr-text);
 }
