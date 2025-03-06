@@ -27,8 +27,7 @@
   --ff2: ;
 
 
-  /**font-size/line-height/font-family */
-  --p: 1rem/1.5rem (--ff) ;
+  --p: 1rem/1.5rem (--ff) ; /**font-size/line-height/font-family */
   --h1: 600 2.5rem/3rem (--ff2) ;
   --h2: 600 2rem/1.2rem (--ff2) ;
 
