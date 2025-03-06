@@ -14,6 +14,7 @@ function HomepageNavbar() {
         <div className='hamburger-menu'>
           <span></span>
           <span></span>
+          <span></span>
         </div>
       </div>
     </div>
