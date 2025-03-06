@@ -70,7 +70,7 @@ button:active {
 
 h1 {
   color: var(--clr-text);
-  margin-left: 20px;
+  margin-left: var(--spacing4);
 }
 
 
