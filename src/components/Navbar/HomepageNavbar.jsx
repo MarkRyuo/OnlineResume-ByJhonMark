@@ -5,10 +5,12 @@ function HomepageNavbar() {
   return (
     <div className='navbar-container'>
       <h1>Animoda Studio</h1>
-      <button>
-        <span>👌</span>
-        Get Started
-      </button>
+      <div className='buttons-container'>
+        <button>
+          <span>👌</span>
+          Get Started
+        </button>
+      </div>
     </div>
   )
 }
