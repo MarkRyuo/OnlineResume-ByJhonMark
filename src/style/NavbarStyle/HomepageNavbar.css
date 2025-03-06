@@ -30,6 +30,7 @@ button {
   font-weight: 500;
 
   font-family: var(--ff2);
+  color: var(--clr-text);
   transition: opacity 0.15s ;
   cursor: pointer;
   position: relative;
