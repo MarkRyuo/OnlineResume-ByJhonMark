@@ -11,7 +11,7 @@ function HomepageNavbar() {
           Get Started
         </button>
 
-        <div>
+        <div className='hamburger-menu'>
           <div></div>
           <div></div>
           <div></div>
