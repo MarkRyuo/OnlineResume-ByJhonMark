@@ -24,7 +24,7 @@
 button {
   font-size: 1.5rem;
   border: none;
-  padding: var(--spacing2) 15px;
+  padding: var(--spacing2) var(--spacing3);
   border-radius: 10px;
   font-size: 1.3rem;
   font-weight: 400;
