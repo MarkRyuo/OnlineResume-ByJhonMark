@@ -5,7 +5,8 @@ function HomepageNavbar() {
   return (
     <div className='navbar-container'>
       <div className='animoda-text'>
-        <p></p>
+        <p>A</p>
+        <p>N</p>
       </div>
       <div className='buttons-container'>
         <button>
