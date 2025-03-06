@@ -12,6 +12,13 @@ function HomepageNavbar() {
         <p>O</p>
         <p>D</p>
         <p>A</p>
+
+        <p>S</p>
+        <p>T</p>
+        <p>U</p>
+        <p>D</p>
+        <p>I</p>
+        <p>O</p>
       </div>
       <div className='buttons-container'>
         <button>
