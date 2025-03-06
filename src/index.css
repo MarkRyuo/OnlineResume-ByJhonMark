@@ -18,7 +18,7 @@
 
   --clr-primary: ;
   --clr-secondary: ;
-  --clr-text: rgb(233, 28, 28);
+  --clr-text: rgb(49, 46, 46);
   --clr-background: ;
   --clr-accent: ;
 
@@ -31,6 +31,7 @@
   --h1: 600 2.5rem/3rem var(--ff2) ; /**font-weight/font-size/line-height/font-family */
   --h2: 600 2rem/1.2rem var(--ff2) ;
 
+  /** Spacing */
   --spacing1: 4px ;
   --spacing2: 8px ;
   --spacing3: 16px ;
