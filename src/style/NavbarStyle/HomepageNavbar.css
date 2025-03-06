@@ -11,12 +11,12 @@
   position: fixed;
   z-index: 100;
   width: 100vw;
+  height: 80px;
   
   position: absolute;
   top: 0;
   left: 0;
 
-  height: 80px;
   /* border: 1px solid; */
 }
 
