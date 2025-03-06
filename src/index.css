@@ -52,5 +52,5 @@ html {
 }
 
 h1 {
-  
+  font: var(--h1);
 }
