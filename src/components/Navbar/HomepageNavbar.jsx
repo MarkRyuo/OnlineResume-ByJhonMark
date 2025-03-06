@@ -12,9 +12,8 @@ function HomepageNavbar() {
         </button>
 
         <div className='hamburger-menu'>
-          <div></div>
-          <div></div>
-          <div></div>
+          <span></span>
+          <span></span>
         </div>
       </div>
     </div>
