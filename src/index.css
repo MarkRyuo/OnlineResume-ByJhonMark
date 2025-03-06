@@ -22,10 +22,14 @@
   --clr-background: ;
   --clr-accent: ;
 
-  --ff: ;
+  --ff: ; /* font family */
   --ff2: ;
 
 
+  /**
+   * Defines the font styles for paragraph text.
+   * The font is set to 1rem line height and 1.5rem font size, using the value of the `--ff` CSS variable.
+   */
   --p: 1rem/1.5rem (--ff) ;
   --h1: 600 2.5rem/3rem (--ff2) ;
   --h2: 600 2rem/1.2rem (--ff2) ;
