@@ -22,7 +22,8 @@
   --clr-background: ;
   --clr-accent: ;
 
-  --ff: ; /** font family */
+  /** font family */
+  --ff: ;
   --ff2: ;
 
 
