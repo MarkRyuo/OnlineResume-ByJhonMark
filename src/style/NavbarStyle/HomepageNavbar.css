@@ -29,6 +29,7 @@ button {
   font-size: 1.3rem;
   font-weight: 500;
 
+  font-family: var(--ff2);
   transition: opacity 0.15s ;
   cursor: pointer;
   position: relative;
