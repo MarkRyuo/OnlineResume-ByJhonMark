@@ -107,3 +107,7 @@ h1:hover::after {
 }
 
 
+
+.animoda-text {
+  border: var(--border1);
+}
