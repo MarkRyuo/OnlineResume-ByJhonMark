@@ -7,6 +7,11 @@ function HomepageNavbar() {
       <div className='animoda-text'>
         <p>A</p>
         <p>N</p>
+        <p>I</p>
+        <p>M</p>
+        <p>O</p>
+        <p>D</p>
+        <p>A</p>
       </div>
       <div className='buttons-container'>
         <button>
