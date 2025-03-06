@@ -117,3 +117,8 @@ h1:hover::after {
   width: 50px;
 
 }
+
+
+.left-container {
+  border: var(--border1);
+}
