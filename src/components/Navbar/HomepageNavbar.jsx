@@ -4,11 +4,13 @@ import '../../style/NavbarStyle/HomepageNavbar.css'
 function HomepageNavbar() {
   return (
     <div className='navbar-container'>
-      <h1>Animoda Studio</h1>
-      <div className='hamburger-menu'>
-        <span></span>
-        <span></span>
-        <span></span>
+      <div className='left-container'>
+        <div className='hamburger-menu'>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <h1>Animoda Studio</h1>
       </div>
       <div className='buttons-container'>
         <button>
