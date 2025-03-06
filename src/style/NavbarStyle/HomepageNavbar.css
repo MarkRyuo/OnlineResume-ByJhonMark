@@ -71,7 +71,7 @@ button:active {
 h1 {
   color: var(--clr-text);
   margin-left: var(--spacing4);
-  font-size: var(--fs4);
+  font-size: var(--fs5);
 }
 
 
