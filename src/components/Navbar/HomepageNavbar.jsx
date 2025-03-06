@@ -4,7 +4,9 @@ import '../../style/NavbarStyle/HomepageNavbar.css'
 function HomepageNavbar() {
   return (
     <div className='navbar-container'>
-      <div
+      <div className=''>
+
+      </div>
       <div className='buttons-container'>
         <button>
           <span>👌</span>
