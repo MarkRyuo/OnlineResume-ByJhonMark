@@ -121,4 +121,5 @@ h1:hover::after {
 
 .left-container {
   border: var(--border1);
+  width: 50px;
 }
