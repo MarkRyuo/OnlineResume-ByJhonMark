@@ -23,8 +23,8 @@
   --clr-accent: ;
 
   /** font family */
-  --ff: "Sigmar", sans-serif;
-  --ff2: "Poppins", sans-serif;
+  --ff: "Poppins", sans-serif ;
+  --ff2: "Sigmar", sans-serif;
 
 
   --p: 1rem/1.5rem (--ff) ; /**font-size/line-height/font-family */
