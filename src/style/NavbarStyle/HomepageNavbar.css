@@ -69,8 +69,7 @@ button:active {
 }
 
 h1 {
-  font-weight: 500;
-  color: var(--clr-black-400);
+  color: var(--clr-text);
   margin-left: 20px;
 }
 
