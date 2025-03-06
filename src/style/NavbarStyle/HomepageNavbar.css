@@ -115,6 +115,7 @@ h1:hover::after {
 
 .hamburger-menu span {
   width: 50px;
+  border: var(--border1);
 
 }
 
