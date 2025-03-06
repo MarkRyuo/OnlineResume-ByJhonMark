@@ -10,7 +10,6 @@ function HomepageNavbar() {
           <span>👌</span>
           Get Started
         </button>
-        
       </div>
     </div>
   )
