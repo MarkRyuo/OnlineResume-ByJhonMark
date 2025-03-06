@@ -14,6 +14,7 @@ function HomepageNavbar() {
         <div>
           <div></div>
           <div></div>
+          <div></div>
         </div>
       </div>
     </div>
