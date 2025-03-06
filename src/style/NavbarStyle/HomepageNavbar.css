@@ -120,6 +120,8 @@ h1:hover::after {
 
 
 .left-container {
-  border: var(--border1);
-  width: 50px;
+  /* border: var(--border1); */
+  width: 500px;
+  display: flex;
+  margin-left: var(--spacing2);
 }
