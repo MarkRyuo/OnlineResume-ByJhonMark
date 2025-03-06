@@ -29,7 +29,7 @@
 
   --p: 1rem/1.5rem var(--ff) ; /**font-size/line-height/font-family */
   --h1: 600 2.5rem/3rem var(--ff2) ; /**font-weight/font-size/line-height/font-family */
-  --h2: 600 2rem/1.2rem (--ff2) ;
+  --h2: 600 2rem/1.2rem var(--ff2) ;
 
   --spacing1: 4px ;
   --spacing2: 8px ;
