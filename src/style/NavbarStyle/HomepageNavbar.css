@@ -72,6 +72,16 @@ h1 {
   color: var(--clr-text);
   margin-left: var(--spacing4);
   font-size: var(--fs5);
+
+  position: relative;
 }
 
+
+h1::after {
+  content: " ";
+  display: block;
+  border: 1px solid red;
+  width: 100%;
+  position: absolute;
+}
 
